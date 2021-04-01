@@ -1,6 +1,6 @@
 # Pokemon Searcher Background
 
-This is a searcher pokemon, the background change when select different pokemon
+This is a Pokemons finder, the background change when select different pokemon.
 
 # Pokemon`s List
 
